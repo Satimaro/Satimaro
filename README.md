@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/satimaro"><img src="https://img.shields.io/badge/Telegram-@satimaro-blue?logo=telegram&style=for-the-badge"/></a>
+  <a href="https://t.me/Dmitry_Rashchupkin)"><img src="https://img.shields.io/badge/Telegram-@satimaro-blue?logo=telegram&style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Python-3.11-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ESP32-IoT-black?logo=espressif&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Home%20Assistant-Automation-41BDF5?logo=homeassistant&style=for-the-badge"/>
