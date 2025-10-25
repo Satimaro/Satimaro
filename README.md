@@ -34,7 +34,7 @@ My passion: **ESP32 + BLE + sensors + mechanical design** — all working togeth
 ### ⚙️ Featured Projects
 | 🔗 Project | 💡 Description | 🧩 Stack |
 |------------|----------------|----------|
-| [**ELK-BLEDOM FastLink**](https://github.com/satimaro/elkbledom_fastlink) | Advanced BLE LED integration for Home Assistant | Python · BLE · HASS |
+| [**ELK-BLEDOM FastLink**](https://github.com/satimaro/elkbledom-fastlink) | Advanced BLE LED integration for Home Assistant | Python · BLE · HASS |
 | **Smart Vent Controller** | ESP32 system for CO₂ & temperature-based airflow | ESP32 · MQTT · YAML |
 | **FamilyMenu Bot** | Telegram bot for smart home & daily planning | Python · Aiogram · Docker |
 
@@ -82,24 +82,13 @@ My passion: **ESP32 + BLE + sensors + mechanical design** — all working togeth
 
 ---
 
-### 🐍 Commit Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/satimaro/satimaro/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/satimaro/satimaro/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/satimaro/satimaro/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
-
----
-
 <h3 align="center">🌐 Русская версия</h3>
 
 Привет! Я — Дима (<b>satimaro</b>), QA Engineer и разработчик умных систем.  
 Создаю BLE-интеграции, ESP32-контроллеры, автоматизацию и 3D-модели.  
 
 🚀 Проекты:
-- [ELK-BLEDOM FastLink](https://github.com/satimaro/elkbledom_fastlink) — BLE-ленты для Home Assistant  
+- [ELK-BLEDOM FastLink](https://github.com/satimaro/elkbledom-fastlink) — BLE-ленты для Home Assistant  
 - Smart Vent Controller — адаптивная вентиляция  
 - FamilyMenu Bot — Telegram-бот  
 
