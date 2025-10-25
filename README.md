@@ -29,7 +29,7 @@ QA Engineer & Maker ⚙️ ESP32 · Home Assistant · BLE · Python
 ---
 
 ## 🌐 Contact
-📫 [Telegram](https://t.me/satimaro) · [GitHub](https://github.com/satimaro)
+📫 [Telegram](https://t.me/@Dmitry_Rashchupkin) · [GitHub](https://github.com/satimaro)
 
 ---
 
