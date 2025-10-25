@@ -35,7 +35,6 @@ QA Engineer & Maker ⚙️ ESP32 · Home Assistant · BLE · Python
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satimaro&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satimaro&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 ---
